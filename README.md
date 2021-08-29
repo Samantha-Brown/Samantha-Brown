@@ -1,4 +1,4 @@
-## Hi there, I'm Samantha - she/her 👋
+<h1 align="center"> Hello! I'm Samantha - Pronouns she/her </h1>
 
 <img src="https://user-images.githubusercontent.com/79541611/131263788-72aaa952-9cb7-416b-9a54-516731c17fb3.jpg" width=30% height=30%>
 
@@ -17,9 +17,12 @@
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/nodejs.png" alt="NodeJS" width="50" height="auto" /></td>
     </tr>
  </table>
-<br />
 
 
+
+<h3>Contact</h3> 
+ - <a href="https://www.linkedin.com/in/samantha-brown-software-developer/">LinkedIn</a>
+ <br/>
 <!--
 **Samantha-Brown/Samantha-Brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
