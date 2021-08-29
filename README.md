@@ -9,6 +9,9 @@
 [![Smantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samantha-Brown&count_private=true)](https://github.com/Samantha-Brown/github-readme-stats)
 
 
+![Smantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samantha-Brown&count_private=true)
+
+
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samantha-Brown&theme=tokyonight)
