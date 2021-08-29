@@ -17,6 +17,7 @@
         <td>Cypress</td>
         <td>Mocha</td>
      <td>Chai</td>
+        <td>Heroku</td>
     </tr>
     <tr>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
