@@ -8,7 +8,7 @@
 
 <br />
 
-https://github-readme-stats.vercel.app/api?username=Samantha-Brown&count_private=true
+![Github stats](https://github-readme-stats.vercel.app/api?username=Samantha-Brown&count_private=true&show_icons=true)
 
 <br />
 
