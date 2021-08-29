@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/79541611/131263788-72aaa952-9cb7-416b-9a54-516731c17fb3.jpg" width="100" height="100>
+<img src="https://user-images.githubusercontent.com/79541611/131263788-72aaa952-9cb7-416b-9a54-516731c17fb3.jpg" width=50% height=50%>
 
 ### Hi there, I'm Samantha - she/her 👋
 
