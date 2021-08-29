@@ -8,6 +8,10 @@
 
 <br />
 
+https://github-readme-stats.vercel.app/api?username=Samantha-Brown&count_private=true
+
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samantha-Brown&theme=tokyonight)
 
 <!--
