@@ -4,7 +4,7 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samantha-Brown&show_icons=true&include_all_commits=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samantha-Brown&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 <br />
 
