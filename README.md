@@ -1,15 +1,12 @@
+![IMG_20180618_102107_663](https://user-images.githubusercontent.com/79541611/131263788-72aaa952-9cb7-416b-9a54-516731c17fb3.jpg)
+
 ### Hi there, I'm Samantha - she/her 👋
 
 ## 
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samantha-Brown&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samantha-Brown&theme=tokyonight)
 
 <!--
 **Samantha-Brown/Samantha-Brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
