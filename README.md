@@ -4,12 +4,12 @@
 
 
 ### Technologies
+
 [github ](github.png)<img src="github.png" height="40">
 
 <br />
 
-
-
+JavaScript	HTML	CSS	Sass	NPM	Mocha	GitHub	NodeJS
 <!--
 **Samantha-Brown/Samantha-Brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
