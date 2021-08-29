@@ -5,7 +5,7 @@
  </p>
 
 <div align="center"> 
-    Technologies
+ <h3>Technologies</h3>
     </div>
 
 <table>
