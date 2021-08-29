@@ -6,9 +6,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samantha-Brown&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-<br />
+[![Smantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samantha-Brown)](https://github.com/Samantha-Brown/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Samantha-Brown&count_private=true&show_icons=true)
 
 <br />
 
