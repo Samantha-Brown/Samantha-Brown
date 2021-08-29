@@ -1,4 +1,4 @@
-![IMG_20180618_102107_663](https://user-images.githubusercontent.com/79541611/131263788-72aaa952-9cb7-416b-9a54-516731c17fb3.jpg)
+![IMG_20180618_102107_663](https://user-images.githubusercontent.com/79541611/131263788-72aaa952-9cb7-416b-9a54-516731c17fb3.jpg&s=200)
 
 ### Hi there, I'm Samantha - she/her 👋
 
