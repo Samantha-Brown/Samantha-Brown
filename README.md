@@ -1,12 +1,14 @@
 <h2 align="center"> Hi, I'm Samantha - she/her 👋</h2>
+<div>
 <h4 align="left"> 
   This is my personal account, which I first used through coding school, and I now use to continue learning, contribute to open source projects, and to make         applications for pleasure!
 
-  My favorite applications (so far) are pinned below.<h4>
+  My favorite applications (so far) are pinned below.</h4>
 
  <p align="center">
    <img src="https://user-images.githubusercontent.com/79541611/131263788-72aaa952-9cb7-416b-9a54-516731c17fb3.jpg" width=30% height=30%>
  </p>
+ </div>
 
 <div align="center"> 
  <h3>Technologies</h3>
