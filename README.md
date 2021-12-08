@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Samantha - she/her 👋</h2>
-<h4 align="center"> 
+<h4 align="left"> 
   This is my personal account, which I first used through coding school, and I now use to continue learning, contribute to open source projects, and to make         applications for pleasure!
 
   My favorite applications (so far) are pinned below.<h4>
