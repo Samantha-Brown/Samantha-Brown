@@ -3,7 +3,7 @@
 <h4 align="center"> 
   This is my personal account, which I first used through coding school.
 
-  Now I now use it to continue practicing new technologies, contribute to open source projects, and to make applications just for me!
+  Now I use it to continue practicing new technologies, contribute to open source projects, and to make applications just for me!
 
   My favorite applications (so far) are pinned below.</h4>
 
